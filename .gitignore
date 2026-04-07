@@ -5,7 +5,7 @@ dist-ssr/
 *.local
 
 # SQLite Database
-# database.sqlite
+database.sqlite
 # (Optional: Uncomment above if you don't want to upload your local data)
 
 # Logs
